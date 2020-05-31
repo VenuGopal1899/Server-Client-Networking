@@ -14,8 +14,8 @@ FTP Server is also included
 3. 3udpcli.c 3udpser.c               - Client & UDP Server
    # Program to display list of files and folders in given directory
 
-4. 4server.c 4tcp_cli.c 4udp_cli.c   - Client & UDP Server & TCP Server
-   # Program for simultaneous communication b^n udp and tcp servers and client
+4. 4server.c 4tcp_cli.c 4udp_cli.c   - TCP Server & UDP Client & TCP Client
+   # Program for simultaneous communication b^n udp and tcp clients and server
 
 5. 5ftp_client.c 5ftp_server.c       - FTP Client & FTP Server
    # Program to implement File transfer protocol between given directories
